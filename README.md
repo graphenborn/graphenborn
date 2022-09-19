@@ -1,6 +1,4 @@
 ### Hi there 👋, my name is Yuri
-#### I am a student
-Living in mytishi, learning to develop games
 
 Skills: Python / Django / HTML / CSS / Git
 
