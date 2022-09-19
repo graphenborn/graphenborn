@@ -2,7 +2,7 @@
 
 Skills: Python / Django / HTML / CSS / Git
 
-- 🌱 I’m currently learning Unity / C# 
+- 🌱 I’m currently learning Unity / C# / Godot
 - 📫 How to reach me: serebryakovjury@gmail.com 
 
 
